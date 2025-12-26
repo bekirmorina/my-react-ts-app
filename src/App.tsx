@@ -1,7 +1,7 @@
 // src/App.tsx
 
 function App() {
-  const name: string = "BEKIR MORINA - My Simple Website - testing branch";
+  const name: string = "BEKIR - My Simple Website - testing branch";
   const description: string =
     "This is a single page built with React and TypeScript.";
 
